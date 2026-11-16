@@ -201,9 +201,9 @@ ControleIoT_HiveMQ/
 
 ## 👤 Autores
 
-**Alexandre Gianneff Loureiro Alves**
-**Luca Simões D'Agostino**
-**Max Wesley Reis de Godoy**
+**Alexandre Gianneff Loureiro Alves**,
+**Luca Simões D'Agostino**,
+**Max Wesley Reis de Godoy** e
 **Maycon Lima Teixeira Cavalcante**
 
 Projeto IoT — Disciplina de Desenvolvimento Mobile  
